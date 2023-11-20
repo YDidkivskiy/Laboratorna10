@@ -17,7 +17,7 @@ int main () {
     else {
         a = a * M_PI / 180;
 
-       z1 = (1 - 2 * pow(sin(a), 2)) / (1 + sin(2 * a));
+        z1 = (1 - 2 * pow(sin(a), 2)) / (1 + sin(2 * a));
         z2 = (1 - tan(a)) / (1 + tan(a));
 
         std::cout << "z1 = " << z1 << "\nz2 = " << z2 << std::endl;
