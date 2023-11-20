@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-
-
 //ЗАВДАННЯ 3. №11
 
 int main () {
