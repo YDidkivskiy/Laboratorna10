@@ -5,6 +5,7 @@ int main () {
     system("chcp 65001");
 
     const double k = 7.2;
+
     double x = 5.0;
     double c = atan(x);
 
