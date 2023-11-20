@@ -1,0 +1,15 @@
+# ninja log v5
+3	197	7220354245880935	CMakeFiles/zqweqs.dir/5.11.cpp.obj	51ac6c3761580c21
+3	415	7217820658410478	CMakeFiles/zqweqs.dir/main1.11.2.cpp.obj	36405b9e14f814dd
+4	488	7217831786702959	CMakeFiles/zqweqs.dir/1_11_2.cpp.obj	8944d45217f76813
+18	419	7217831785989608	CMakeFiles/zqweqs.dir/main1.11.1.cpp.obj	e0f6df5cedaf9df4
+374	457	7221828383324712	zqweqs.exe	fcd95ea77d7746e5
+2	383	7217821994404260	CMakeFiles/zqweqs.dir/main1_11_2.cpp.obj	52ea5cdcf85fa2b4
+3	497	7221820859809659	CMakeFiles/zqweqs.dir/3_11.cpp.obj	e9a3331ed49b1b03
+9	64	7221817184505961	CMakeFiles/zqweqs.dir/4_11.cpp.obj	c43692f495c8ecfb
+4	373	7221828382532583	CMakeFiles/zqweqs.dir/2.11.cpp.obj	5db73f14d4ffa2b3
+1	182	7221841441748126	build.ninja	4f03d3772d90ba28
+8	432	7221841447027681	CMakeFiles/zqweqs.dir/1.11.1.cpp.obj	7f374db896869da8
+3	514	7221841447862565	CMakeFiles/zqweqs.dir/2.11.cpp.obj	5db73f14d4ffa2b3
+14	553	7221841448247851	CMakeFiles/zqweqs.dir/5.11.cpp.obj	51ac6c3761580c21
+553	661	7221841449262010	zqweqs.exe	dfa1931d017b16b8

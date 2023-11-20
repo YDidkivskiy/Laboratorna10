@@ -1,0 +1,3 @@
+C:/zqweqs/cmake-build-debug/CMakeFiles/zqweqs.dir
+C:/zqweqs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/zqweqs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
