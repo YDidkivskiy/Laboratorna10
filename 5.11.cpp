@@ -13,8 +13,8 @@ int main () {
     std::cout << "Введіть друге число(n)" << std::endl;
     std::cin >> n;
 
-    if (y > 0 && n > 0) {
-        const double answer = (y * y) + (0.5 * n + 4.8) / std::sin(y);
+    const double answer = (y * y) + (0.5 * n + 4.8) / std::sin(y);
+    if (answer > 0) {
         std::cout << "Відповідь дорівнює " << answer << std::endl;
     }
 
