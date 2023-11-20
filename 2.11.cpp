@@ -24,7 +24,7 @@ int main (){
     AB1 = std::sqrt(i * i + std::pow((i-1),2));
     AC1 = std::sqrt((-i * -i) + std::pow((i + 1),2));
 
-   l = std::sqrt((AB1 * AC1) / (AB1 + AC1));
+    l = std::sqrt((AB1 * AC1) / (AB1 + AC1));
 
     std::cout << "Бісектриса (l) = " << l << std::endl;
 
