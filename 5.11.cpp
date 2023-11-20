@@ -17,7 +17,6 @@ int main () {
     if (answer > 0) {
         std::cout << "Відповідь дорівнює " << answer << std::endl;
     }
-
     else {
         std::cout << "Параметри для цієї задачі не знаходяться у області визначення" << std::endl;
     }
