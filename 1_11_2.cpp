@@ -7,6 +7,7 @@ int main() {
     system("chcp 65001"); // через setlocale не працює
 
     double S,a,P;
+
     std::cout << "Введіть площу круга (S): ";
     std::cin >> S;
 
