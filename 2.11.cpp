@@ -8,6 +8,7 @@ int main (){
 
     int Ax, Ay, Bx, By, Cx, Cy;
     double h, AB1,AC1,l;
+
     const int i = 11;
 
     Ay = 0;
