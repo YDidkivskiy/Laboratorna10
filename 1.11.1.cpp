@@ -18,5 +18,6 @@ int main () {
 
     answer = (p1 + p2 + p3) * t;
     std::cout << "Кількість набранної води в басейн(літрів):" << answer << std::endl;
+
     return 0;
 }
